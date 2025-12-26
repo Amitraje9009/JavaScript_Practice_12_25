@@ -31,5 +31,6 @@ const n2 = 101;
 
 // console.log(a1+50);
 
+const amit = 11;
 
 
