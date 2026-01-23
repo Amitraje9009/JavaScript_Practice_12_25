@@ -20,3 +20,9 @@ console.log(typeof("10"));
    }
 
     demo();
+
+    console.log(null+23);   //23ṭ
+console.log(undefined+23);//NaN
+
+
+console.log(null+57+null*23+6)
