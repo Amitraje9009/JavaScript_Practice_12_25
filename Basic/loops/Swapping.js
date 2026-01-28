@@ -8,4 +8,3 @@ num2= num3;
 console.log(num1);
 console.log(num2);
 
-
