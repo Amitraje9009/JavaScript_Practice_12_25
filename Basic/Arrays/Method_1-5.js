@@ -1,7 +1,7 @@
 let arr = [10,20,30,40,50,60,70];
 
 // console.log(arr.push(80));
-// //Appends new elements to the end of an array, and returns the new length of the array
+//Appends new elements to the end of an array, and returns the new length of the array
 
 // **********************
 
